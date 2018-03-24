@@ -1,0 +1,81 @@
+title:"Return of the Jedi"
+url:"https://swapi.co/api/films/3/"
+
+characters:(20) [
+"https://swapi.co/api/people/1/", 
+"https://swapi.co/api/people/2/", 
+"https://swapi.co/api/people/3/", 
+"https://swapi.co/api/people/4/", 
+"https://swapi.co/api/people/5/", 
+"https://swapi.co/api/people/10/", 
+"https://swapi.co/api/people/13/", 
+"https://swapi.co/api/people/14/", 
+"https://swapi.co/api/people/16/", 
+"https://swapi.co/api/people/18/", 
+"https://swapi.co/api/people/20/", 
+"https://swapi.co/api/people/21/", 
+"https://swapi.co/api/people/22/", 
+"https://swapi.co/api/people/25/", 
+"https://swapi.co/api/people/27/", 
+"https://swapi.co/api/people/28/", 
+"https://swapi.co/api/people/29/", 
+"https://swapi.co/api/people/30/", 
+"https://swapi.co/api/people/31/", 
+"https://swapi.co/api/people/45/"
+]
+created:"2014-12-18T10:39:33.255000Z"
+director:"Richard Marquand"
+edited:"2015-04-11T09:46:05.220365Z"
+episode_id:6
+
+opening_crawl:
+"Luke Skywalker has returned to↵his home planet of Tatooine in↵an attempt to rescue his↵friend Han Solo from the↵clutches of the vile gangster↵Jabba the Hutt.↵↵Little does Luke know that the↵GALACTIC EMPIRE has secretly↵begun construction on a new↵armored space station even↵more powerful than the first↵dreaded Death Star.↵↵When completed, this ultimate↵weapon will spell certain doom↵for the small band of rebels↵struggling to restore freedom↵to the galaxy..."
+
+planets:Array(5)
+0:"https://swapi.co/api/planets/5/"
+1:"https://swapi.co/api/planets/7/"
+2:"https://swapi.co/api/planets/8/"
+3:"https://swapi.co/api/planets/9/"
+4:"https://swapi.co/api/planets/1/"
+Length:5
+
+producer:"Howard G. Kazanjian, George Lucas, Rick McCallum"
+release_date:"1983-05-25"
+
+species:Array(9)
+0:"https://swapi.co/api/species/1/"
+1:"https://swapi.co/api/species/2/"
+2:"https://swapi.co/api/species/3/"
+3:"https://swapi.co/api/species/5/"
+4:"https://swapi.co/api/species/6/"
+5:"https://swapi.co/api/species/8/"
+6:"https://swapi.co/api/species/9/"
+7:"https://swapi.co/api/species/10/"
+8:"https://swapi.co/api/species/15/"
+length:9
+
+starships:Array(12)
+0:"https://swapi.co/api/starships/15/"
+1:"https://swapi.co/api/starships/10/"
+2:"https://swapi.co/api/starships/11/"
+3:"https://swapi.co/api/starships/12/"
+4:"https://swapi.co/api/starships/22/"
+5:"https://swapi.co/api/starships/23/"
+6:"https://swapi.co/api/starships/27/"
+7:"https://swapi.co/api/starships/28/"
+8:"https://swapi.co/api/starships/29/"
+9:"https://swapi.co/api/starships/3/"
+10:"https://swapi.co/api/starships/17/"
+11:"https://swapi.co/api/starships/2/"
+length:12
+
+vehicles:Array(8)
+0:"https://swapi.co/api/vehicles/8/"
+1:"https://swapi.co/api/vehicles/16/"
+2:"https://swapi.co/api/vehicles/18/"
+3:"https://swapi.co/api/vehicles/19/"
+4:"https://swapi.co/api/vehicles/24/"
+5:"https://swapi.co/api/vehicles/25/"
+6:"https://swapi.co/api/vehicles/26/"
+7:"https://swapi.co/api/vehicles/30/"
+Length:8

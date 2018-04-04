@@ -1,13 +1,14 @@
 class Player {
-    this.name = Name
+    constructor(name, points) {
+    this.name = name
     this.points = points
     }   
 }
 
-var kobe = Player('kobe', 85)
-var jordan = new Name('jordan', 85)
-console.log(kobe.points)
-console.log(jordan.points)
+var kobe = new Player('kobe', 85);
+var jordan = new Player('jordan', 85);
+console.log(kobe.points);
+console.log(jordan.points);
 // Challenge building a class with three
 // Build a class called Cat tghat has name, weight, and tail properties
 // Make three cats with the blueprint.
@@ -24,10 +25,10 @@ class Cat {
         this.tail = tail
     }
 }
-    var sansa = new Cat('sansa', "30 pounds", true)
-    var timmy = new Cat('sansa', "30 pounds", true)
-    var ricky = new Cat('sansa', "30 pounds", true)
+    var catSansa = new Cat('sansa', "30 pounds", true);
+    var catTimmy = new Cat('timmy', "250 pounds", true);
+    var catRicky = new Cat('ricky', "8 pounds", true);
   
-    console.log(sansa)
-    console.log(timmy)
-    console.log(ricky)
+    console.log(catSansa);
+    console.log(catTimmy, catTimmy.weight);
+    console.log(catRicky);
